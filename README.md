@@ -35,7 +35,11 @@
 * 페이지네이션을 통해 게시글은 한 페이지당 최대 6개의 글이 보이게 했으며 인덱스로 이동 가능
 * 유효서 검사를 통해 겹치는 제목, 10글자 이하의 짧은 내용, 지정된 특수문자 외 특수문자 사용 시 경고와 함께 글 등록이 안되도록 함 
 <br>
-<img width="900" src="https://github.com/seohyeon2/Django-Toy-Project/blob/master/wiki_img/main2.png">
+
+<img width="50%" src="https://github.com/seohyeon2/Django-Toy-Project/blob/master/wiki_img/main2/main2.png"><img width="50%" src="https://github.com/seohyeon2/Django-Toy-Project/blob/master/wiki_img/main2/main2-pagenation.png">
+
+<img width="50%" src="https://github.com/seohyeon2/Django-Toy-Project/blob/master/wiki_img/main2/main2-write.png"><img width="50%" src="https://github.com/seohyeon2/Django-Toy-Project/blob/master/wiki_img/main2/main2-modify.png">
+
 
 <br>
 
