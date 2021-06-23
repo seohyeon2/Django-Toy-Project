@@ -43,11 +43,17 @@
 
 <br>
 
-제목(title), 문자열, 길이 제한 100자
-내용(content), 문자열, 길이 제한 없음
-감정 상태(feeling), 문자열, 길이 제한 80자
-감정 점수(score), 정수형
-작성일(dt_created), 날짜
-1. '제목'과 '내용'에는 '#'이 들어갈 수 없습니다.
-2. '감정 상태' 에는 숫자가 들어갈 수 없습니다.
-3. '감정 점수'는 0부터 10사이의 숫자만 들어갈 수 있습니다.
+### mindnote_complete
+* http://127.0.0.1:8000/
+* 오늘 하루 감정 점수와 감정 상태까지 글로 적을 수 있는 감정 일기 사이트
+* 왼쪽에 목차    
+ㄴ 모아보기 : 전체 일기 보기     
+ㄴ 감정일기란 : 감정일기에 대한 설명을 써놓은 곳    
+ㄴ 일기쓰기 : 누르면 일기쓰기 가능    
+* 새로운 글 등록, 글 수정, 글 삭제 가능
+* 제목은 100자 이하, 내용은 제한 없음, 감정 상태는 80자 이하, 정수형(1~10)만 가능, 작성일은 '0000-00-00' 형식만 가능하게 함 
+* 유효성 검사를 통해 제목과 내용에는 '#'이 들어갈 수 없으며, 감정 상태에는 숫작 들어갈 수 없게 함
+
+<img width="50%" src="https://github.com/seohyeon2/Django-Toy-Project/blob/master/wiki_img/main3/main3-home.png"><img width="50%" src="https://github.com/seohyeon2/Django-Toy-Project/blob/master/wiki_img/main3/main3-write.png">
+
+<img width="50%" src="https://github.com/seohyeon2/Django-Toy-Project/blob/master/wiki_img/main3/main3-all.png"><img width="50%" src="https://github.com/seohyeon2/Django-Toy-Project/blob/master/wiki_img/main3/main3-intro.png">
