@@ -13,6 +13,8 @@
 * [감정일기 웹 사이트](http://seohyeon2.pythonanywhere.com/)    
 ㄴ python version : 3.7    
 ㄴ django version : 3.2.3    
+ㄴ 권장 익스플로러 : 크롬    
+ㄴ [pythonanywhere](https://www.pythonanywhere.com/)를 이용하여 배포함.    
 
 
 <br>
