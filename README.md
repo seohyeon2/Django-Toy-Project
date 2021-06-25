@@ -2,14 +2,14 @@
 
 <br>
 
-## 🎙 introduce 🎙
+## 🎙 introduction 🎙
 * django 공부하면서 만들어 본 페이지들 입니다.
 * 더 많은 기록을 확인하고 싶다면 아래 링크를 참고하세요
 * [공부개념 정리](https://github.com/seohyeon2/Django-Toy-Project/wiki)        
 
 <br>
 
-## 💿 배포 💿
+## 💿 distribution 💿
 * [감정일기 웹 사이트](http://seohyeon2.pythonanywhere.com/)    
 ㄴ python version : 3.7    
 ㄴ django version : 3.2.3    
