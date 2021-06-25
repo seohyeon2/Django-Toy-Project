@@ -10,7 +10,7 @@
 <br>
 
 ## 💿 배포 💿
-* [감정일기 웹 사이트](seohyeon2.pythonanywhere.com)    
+* [감정일기 웹 사이트](http://seohyeon2.pythonanywhere.com/)    
 ㄴ python version : 3.7    
 ㄴ django version : 3.2.3    
 
