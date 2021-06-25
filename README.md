@@ -23,6 +23,8 @@
 
 <br>
 
+## 🗂 Project Description 🗂
+
 ### costaurant_complete
 * http://127.0.0.1:8000/foods/menu/
 * 메뉴판 사이트를 만들고 메뉴 클릭시 해당 메뉴의 상세정보(가격 등)를 확인 할 수 있게 함
