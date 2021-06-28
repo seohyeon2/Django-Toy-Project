@@ -1,0 +1,40 @@
+{% load static %}
+
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>코스토랑</title>
+    <meta charset="utf-8">
+    <link rel="stylesheet" href={% static 'foods/css/styles.css' %}>
+  </head>
+  <body>
+    <div> July 16, 2020 </div>
+    <hr/>
+
+    <h1>코스토랑</h1>
+    <h2>넌 코딩할때가 제일 이뻐</h2>
+    <p>추가추가 </p>
+    
+    <div class="food-container">
+
+      <div class="food">
+        <img src={% static 'foods/images/image_file' %} width="300px" height="200px"/>
+        <div class="info">
+          <h3>음식이름</h3>
+          <P>음식설명</p>
+          <a href="#">메뉴보기</a>
+        </div>
+      </div>
+
+      <div class="food">
+        <img src="[C] 작성해주세요" width="300px" height="200px"/>
+        <div class="info">
+          <h3>음식이름</h3>
+          <P>음식설명</p>
+          <a href="#">메뉴 보기</a>
+        </div>
+      </div>
+      
+    </div>
+  </body>
+</html>
